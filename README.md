@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-mamoon&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-mamoon" /> </p>
 
-- 🔭 I’m currently working on **my Final Year Project**
+-  🎓 Graduated from FAST University with a degree in Bachelor of Science in Computer Science (BSCS)
 
-- 🌱 I’m currently learning **Flutter Dart**
+-  💻 Currently working as a **Full-Time ASP.NET Developer**
 
-- 💬 Ask me about **Exploratory Data Analysis, Data Visualization, Model Training**
+-  🔭 I’m currently working on exciting **Web Applications and APIs**
+
+-  🌱 I’m currently exploring **Cloud Computing & Microservices**
+
+-  💬 Ask me about **ASP.NET, Python, Data Visualization, Model Training, and Web Development**
 
 - 📫 How to reach me **ahmad.mamoon50@gmail.com**
 <hr>
@@ -29,7 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-mamoon&show_icons=true&locale=en" alt="ahmad-mamoon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-mamoon&" alt="ahmad-mamoon" /></p>
-
-<hr>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
